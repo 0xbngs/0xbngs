@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 ✨ About Me<br>👋 Hi, I'm Bambang Sutrisna, a passionate cybersecurity enthusiast and content creator.<br>📍 I'm currently working as a Security Analyst and pursuing my undergraduate degree in IT, balancing both work and study.<br><br>💻 I actively explore and create content around:<br><br>Red Teaming & Pentesting<br><br>Malware Development & Analysis<br><br>Exploit Development<br><br>Active Directory Attacks<br><br>Persistence & Privilege Escalation Techniques<br><br>📹 I also make YouTube videos and educational content on:<br><br>Password Spraying (CrackMapExec)<br><br>LLMNR Poisoning, LDAP Recon<br><br>Hidden RDP User Backdoor, WMI Persistence (APT29)<br><br>Relay Attacks using HackRF PortaPack<br><br>Malware injection into legitimate applications<br><br>🔧 My Projects & Research Interests:<br><br>Bug Bounty Automation<br><br>Red Team Infrastructure (C2, phishing, redirectors, etc.)<br><br>Custom ransomware simulation using Python (AES + RSA)<br><br>Malicious Chrome Extensions for pentesting (XSS, LFI, SQLi, SSRF, etc.) <br>https://chromewebstore.google.com/detail/pentest-assistant/gdepfalnkmpocmdebjkodjmhnhfdcieo<br><br>Command Injection Labs <br><br>Java desktop applications (NetBeans + MySQL)<br><br>🚀 I believe in continuous learning, sharing knowledge, and building tools that help others in the InfoSec community.<br><br>☕ Let's connect, collaborate, and maybe hack the planet (ethically)!
 
 
@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=0xbngs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->](https://github.dev/0xbngs/0xbngs/)
